@@ -14,4 +14,5 @@
 
 ### Currently Learning
 - Go
+- C#
 - Machine Learning
